@@ -1,0 +1,11 @@
+Parametro;Valore
+Tasso_Dipendenza_Iniziale;0.76
+Tasso_Sostituzione_Attuale;0.717
+Tasso_Sostituzione_Atteso;0.585
+Spesa_Pensionistica_PIL_Oggi;0.153
+Spesa_Pensionistica_PIL_Allarme;0.173
+Tasso_Rimpiazzo_Lavoratori;0.88
+Quota_Salari_PIL;0.4
+Tasso_Uscita_Pensioni_Iniziale;0.038
+Step_Taglio_Sostituzione;0.035
+Step_Aumento_Eta_Pensionabile;0.003
