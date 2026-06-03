@@ -1,7 +1,19 @@
 Homophilic Networks and Demographic Winter: A Threshold Model for the Impact of Pension System Stress.
+
+
 Progetto Finale di Economia dei Network - Università degli Studi di Cagliari
+
+
+
 Questo repository contiene il codice sorgente, i dataset e la documentazione del progetto di ricerca "Reti Omofiliche e Inverno Demografico: Un modello a soglia per l'impatto dello stress previdenziale". L'obiettivo dello studio è analizzare, tramite gli strumenti della Network Science, come la crisi demografica italiana e il conseguente stress sul sistema pensionistico a ripartizione possano innescare meccanismi di contagio comportamentale nel mercato del lavoro.  
 Per superare i limiti dei tradizionali modelli macroeconomici aggregati, il progetto si basa su un modello ad agenti immerso in una rete sintetica Scale-Free di 5.000 nodi, generata tramite l'algoritmo di Barabási-Albert e arricchita con algoritmi di omofilia selettiva.  
+
+
 Attraverso l'implementazione di un modello a soglia ispirato ai lavori di Mark Granovetter, la simulazione (eseguita su un orizzonte temporale di 20 anni) osserva come l'attivazione di manovre di austerità — innescate al raggiungimento di un rapporto Spesa/PIL del 17,3% (soglia RGS) — influenzi la propensione all'espatrio o all'evasione fiscale. I risultati dimostrano che l'uscita mirata dei "Giovani Laureati" (nodi Hub iper-connessi) genera un feedback loop negativo, causando una frammentazione topologica della rete ben superiore alla semplice perdita demografica lineare.
+
+
+
 Autore
+
+
 Mirco Laconi (Matr. 11/82/00520) - CdL in Data science, business analytics e innovazione.
